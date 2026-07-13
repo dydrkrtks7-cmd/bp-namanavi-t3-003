@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="24" cy="32" r="16" fill="#ff3b00" opacity="0.6"/><circle cx="40" cy="32" r="16" fill="#ff3b00"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <metadata>BPaaS site identity a2026ff315dd7d6f</metadata>
+  <rect width="64" height="64" rx="11" fill="hsl(74 81% 45%)"/>
+  <path d="M37 0h27v64H23Z" fill="hsl(233 59% 59%)" opacity="0.82"/>
+  <g transform="rotate(261 32 32)" opacity="0.42"><path d="M12 32c8-17 32-17 40 0-8 17-32 17-40 0Z" fill="none" stroke="#101418" stroke-width="6"/></g>
+  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">JS</text>
+</svg>
